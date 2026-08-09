@@ -25,6 +25,5 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AyazOzk&show_icons=true&theme=radical&hide_border=true)
 
 </div>
